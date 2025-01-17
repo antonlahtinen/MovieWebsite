@@ -57,7 +57,7 @@ A modern full-stack web application for managing movies, built with the MERN sta
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone git@github.com:antonlahtinen/MovieWebsite.git
 cd MovieApp
 ```
 
@@ -122,4 +122,16 @@ docker compose down -v
 - Role-based access control
 - Protected API endpoints
 - Secure password change functionality
-- CORS protection
+
+# Pictures
+
+![image](https://github.com/user-attachments/assets/e1b0da4f-352e-4f15-977f-daf34a53854d)
+
+![image](https://github.com/user-attachments/assets/e6dccddd-da6f-4abf-b54f-fb13e4c5baee)
+
+![image](https://github.com/user-attachments/assets/662de50d-0082-4c2a-8fef-3f63ddba9b2a)
+
+![image](https://github.com/user-attachments/assets/f2ccab83-1797-4079-b982-d2c6ada52df6)
+
+
+

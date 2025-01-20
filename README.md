@@ -58,7 +58,7 @@ A modern full-stack web application for managing movies, built with the MERN sta
 1. Clone the repository:
 ```bash
 git clone git@github.com:antonlahtinen/MovieWebsite.git
-cd MovieApp
+cd MovieWebsite
 ```
 
 2. Set up your environment variables in `backend/.env`:

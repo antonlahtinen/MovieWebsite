@@ -12,7 +12,7 @@ A modern full-stack web application for managing movies, built with the MERN sta
 
 ### Movie Management
 - Browse movie collection
-- Advanced search functionality:
+- Search functionality:
   - Search by title or director
   - Filter by genre
   - Filter by year
